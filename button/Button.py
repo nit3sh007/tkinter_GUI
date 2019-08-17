@@ -29,10 +29,4 @@ label_1.pack(side=LEFT,fill= Y)
 label_2 = Label(root,text="Thanks",fg = "red",bg = "Yellow")
 label_2.pack(side= BOTTOM,fill = X,padx = 50,pady = 50)
 
-
-
-
-
-
-
 root.mainloop()
