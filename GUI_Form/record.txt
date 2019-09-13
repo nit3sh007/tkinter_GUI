@@ -1,1 +1,1 @@
-('NITESH', 'Kumar', 'Male', 'Bihar')
+('NITESH', 'Kumar', 'M', 'Bihar')
